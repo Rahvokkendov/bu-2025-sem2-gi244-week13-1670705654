@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,28 +9,71 @@ public class ProjectileObjectPool : MonoBehaviour
 
     private readonly List<GameObject> projectilePool = new();
 
+    private static ProjectileObjectPool staticInstance = null;
+
+    public static ProjectileObjectPool GetInstance()
+    {
+        
+        return staticInstance;
+    }
     private void Awake()
     {
+        if(staticInstance != null)
+        {
+            Destroy(this.gameObject);
+            return;
+        }
 
+        DontDestroyOnLoad(gameObject);
+
+        
+        staticInstance = this;
     }
 
-    private void Start()
-    {
+    //private void Start()
+    //{
+    //    for (int i = 0; i < initialPoolSize; i++)
+    //    {
+    //        CreateNewProjectile();
+    //    }
+    //}
 
+    private IEnumerator Start()
+    {
+        for (int i = 0; i < initialPoolSize; i++)
+        {
+            CreateNewProjectile();
+            if (i % 20 == 0)
+            {
+                yield return null;
+            }
+            
+        }
     }
 
     private void CreateNewProjectile()
     {
-
+        var go = Instantiate(projectilePrefab);
+        go.SetActive(false);
+        projectilePool.Add(go);
     }
 
     public GameObject Acquire()
     {
-        return null;
+        if (projectilePool.Count == 0 && projectilePool.Count !> initialPoolSize)
+        {
+            CreateNewProjectile();
+        }
+
+        var go = projectilePool[0];
+        projectilePool.RemoveAt(0);
+        go.SetActive(true);
+        return go;
     }
 
     public void Return(GameObject projectile)
     {
-
+        projectilePool.Add(projectile);
+        projectile.SetActive(false);
     }
 }

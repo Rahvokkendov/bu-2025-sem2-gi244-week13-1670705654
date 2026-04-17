@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|f:\\program\\unity\\unity project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|f:\\program\\unity\\unity project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|f:\\program\\unity\\unity project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|f:\\program\\unity\\unity project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|f:\\program\\unity\\unity project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\gamesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|f:\\program\\unity\\unity project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\assets\\scripts\\healthv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B600F3B4-701D-424A-E60C-22106C9421BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestroyOutOfBound.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:18:13.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\Food.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:14:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectileObjectPool.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:47:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:44:13.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameSetting.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\GameSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSetting.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\GameSetting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:17:59.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnotherObject.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:01:13.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistentObject.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:53:02.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthV1.cs",
+              "DocumentMoniker": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\HealthV1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthV1.cs",
+              "ToolTip": "F:\\Program\\Unity\\Unity Project\\bu-2025-sem2-gi244-week13-1670705654\\Assets\\Scripts\\HealthV1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:43:01.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
